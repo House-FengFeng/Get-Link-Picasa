@@ -10,13 +10,12 @@
 -Hỗ trợ cho những bạn làm web phim get link video trên Picasa để xem phim trên player js, jwplayer, ...
 
 ####**Kiến thức cần thiết:**
-- Biết sử dụng Class, Function trong php
+- Biết sử dụng Class trong php
 
 ####**Hướng dẫn sử dụng:**
 - Bộ mã nguồn này bao gồm:
 <ul>
   <li>ClassPicasa.php</li>
-  <li>FunctionPicasa.php</li>
   <li>Example.php</li>
 </ul>
 
